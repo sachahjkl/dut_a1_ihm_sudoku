@@ -1,4 +1,0 @@
-Jean 80 3 500
-Luc 50 20 1000
-Fabrice 80 3 500
-Boseti 80 3 500

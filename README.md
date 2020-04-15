@@ -1,5 +1,3 @@
-[English](README.md) | [Français](README.fr.md)
-
 # dut_a1_ihm_sudoku
 "Sudoku (pronounced soo-doh-koo in French) is a grid-based game defined in 1979 by
 the American Howard Garns, but inspired by the Latin square and by the 36 officers problem from

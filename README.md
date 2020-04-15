@@ -1,13 +1,15 @@
+[English](README.md) | [Français](README.fr.md)
+
 # dut_a1_ihm_sudoku
-"Le sudoku (prononce soudocou en francais), est un jeu en forme de grille deni en 1979 par
-l'Americain Howard Garns, mais inspire du carre latin, ainsi que du probleme des 36 ociers du
-mathematicien suisse Leonhard Euler.
-Le but du jeu est de remplir la grille avec une serie de chires (ou de lettres ou de symboles)
-tous dierents, qui ne se trouvent jamais plus d'une fois sur une m^eme ligne, dans une m^eme
-colonne ou dans une m^eme region (egalement appelee bloc, groupe, secteur ou sous-grille). La
-plupart du temps, les symboles sont des chires allant de 1 a 9, les regions etant alors des
-carres de 3 x 3. Quelques symboles sont deja disposes dans la grille, ce qui autorise une resolution
-progressive du probleme complet "
+"Sudoku (pronounced soo-doh-koo in French) is a grid-based game defined in 1979 by
+the American Howard Garns, but inspired by the Latin square and by the 36 officers problem from
+Swiss mathematician Leonhard Euler.
+The goal is to fill the grid with a series of digits (or letters or symbols)
+that are all different and never occur more than once in the same row, the same
+column, or the same region (also called a block, group, sector, or subgrid). Most
+of the time, the symbols are digits from 1 to 9, and the regions are then
+3 x 3 squares. Some symbols are already placed in the grid, which allows a
+progressive solution of the complete puzzle."
 (source Wikipedia 1)
-Votre version proposera un jeu ou le joueur ne disposera que d'un temps limite pour resoudre
-le puzzle propose.
+This version will offer a game in which the player has limited time to solve
+the given puzzle.
